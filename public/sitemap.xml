@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/minecraftautomator/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/architecture/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/architecture/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/connectivity-automation/frp/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/connectivity-automation/frp/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/ci-cd/github-actions-overview/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/ci-cd/github-actions-overview/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/architecture/infrastructure-overview/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/architecture/infrastructure-overview/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/provisioning/jinja/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/provisioning/jinja/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/lessons-learned/lessons-learned/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/lessons-learned/lessons-learned/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/architecture/component-breakdown/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/architecture/component-breakdown/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/connectivity-automation/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/connectivity-automation/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/ci-cd/deploy-to-cluster/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/ci-cd/deploy-to-cluster/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/provisioning/deployment/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/provisioning/deployment/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/connectivity-automation/service/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/connectivity-automation/service/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/architecture/data-flow/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/architecture/data-flow/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/provisioning/helm/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/provisioning/helm/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/provisioning/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/provisioning/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/ci-cd/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/ci-cd/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/minecraftautomator/lessons-learned/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/minecraftautomator/lessons-learned/</loc>
   </url><url>
-    <loc>http://localhost:1313/mc-auto/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/mc-auto/</loc>
     <lastmod>2025-08-14T16:36:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/</loc>
     <lastmod>2025-08-14T16:36:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/minecraftautomator-hugo/tags/</loc>
   </url>
 </urlset>
