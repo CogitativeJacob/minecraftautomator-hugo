@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Minecraft Automator</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Minecraft Automator</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Aug 2025 16:36:54 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FRP Setup</title>
+      <link>http://localhost:1313/projects/minecraftautomator/connectivity-automation/frp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/connectivity-automation/frp/</guid>
+      <description>VPS server and client configuration with templates.</description>
+    </item>
+    <item>
+      <title>GitHub Actions Overview</title>
+      <link>http://localhost:1313/projects/minecraftautomator/ci-cd/github-actions-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/ci-cd/github-actions-overview/</guid>
+      <description>Pipeline design, triggers, and tests.</description>
+    </item>
+    <item>
+      <title>Infrastructure Overview</title>
+      <link>http://localhost:1313/projects/minecraftautomator/architecture/infrastructure-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/architecture/infrastructure-overview/</guid>
+      <description>High-level diagram and component roles: CLI, API, Helm/Jinja, Kubernetes, Cloudflare.</description>
+    </item>
+    <item>
+      <title>Jinja Templates</title>
+      <link>http://localhost:1313/projects/minecraftautomator/provisioning/jinja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/provisioning/jinja/</guid>
+      <description>Dynamic Helm values via Jinja and per-server configuration.</description>
+    </item>
+    <item>
+      <title>Lessons Learned</title>
+      <link>http://localhost:1313/projects/minecraftautomator/lessons-learned/lessons-learned/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/lessons-learned/lessons-learned/</guid>
+      <description>What broke, what worked, and what I would change next.</description>
+    </item>
+    <item>
+      <title>Component Breakdown</title>
+      <link>http://localhost:1313/projects/minecraftautomator/architecture/component-breakdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/architecture/component-breakdown/</guid>
+      <description>Roles of API, CLI, Kubernetes, storage, and networking.</description>
+    </item>
+    <item>
+      <title>Deploy to Cluster</title>
+      <link>http://localhost:1313/projects/minecraftautomator/ci-cd/deploy-to-cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/ci-cd/deploy-to-cluster/</guid>
+      <description>Automated Helm deploys from CI/CD to your cluster.</description>
+    </item>
+    <item>
+      <title>Deployment Flow</title>
+      <link>http://localhost:1313/projects/minecraftautomator/provisioning/deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/provisioning/deployment/</guid>
+      <description>Sequence from template to running server and returning outputs.</description>
+    </item>
+    <item>
+      <title>Kubernetes Services</title>
+      <link>http://localhost:1313/projects/minecraftautomator/connectivity-automation/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/connectivity-automation/service/</guid>
+      <description>Service exposure patterns and inter-service communication.</description>
+    </item>
+    <item>
+      <title>Data Flow</title>
+      <link>http://localhost:1313/projects/minecraftautomator/architecture/data-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/architecture/data-flow/</guid>
+      <description>From request to auth to value generation to deploy to exposure.</description>
+    </item>
+    <item>
+      <title>Helm Charts</title>
+      <link>http://localhost:1313/projects/minecraftautomator/provisioning/helm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/minecraftautomator/provisioning/helm/</guid>
+      <description>Chart sources, modifications, and rationale for overrides.</description>
+    </item>
+    <item>
+      <title>Mc Auto</title>
+      <link>http://localhost:1313/mc-auto/</link>
+      <pubDate>Thu, 14 Aug 2025 16:36:54 -0500</pubDate>
+      <guid>http://localhost:1313/mc-auto/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

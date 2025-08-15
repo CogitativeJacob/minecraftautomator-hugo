@@ -1,0 +1,11 @@
+baseURL = "http://localhost:1313/"
+title = "Minecraft Automator"
+theme = "PaperMod"
+pagination.pagerSize = 10
+enableRobotsTXT = true
+
+[params]
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  showtoc = true
+  tocopen = false
