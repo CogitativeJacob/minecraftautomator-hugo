@@ -1,4 +1,4 @@
-baseURL = "https://blog.jhath.dev/mc-auto-hugo/"
+baseURL = "https://blog.jhath.dev/"
 title = "Minecraft Automator"
 theme = "PaperMod"
 pagination.pagerSize = 10
