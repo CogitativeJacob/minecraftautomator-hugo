@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://cogitativejacob.github.io/minecraftautomator-hugo/"
 title = "Minecraft Automator"
 theme = "PaperMod"
 pagination.pagerSize = 10
